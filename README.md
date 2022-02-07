@@ -1,4 +1,4 @@
-# FaultDetection_Microgrid
+# Automatic detection of faults using reinforcement learning model in Micro power grid
 Steps to execute<br>
 1. download the repository<br>
 2. open the MATLAB live script (Maincode.mlx)<br>
